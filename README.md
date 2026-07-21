@@ -47,8 +47,8 @@ sudo apt update
 ### Deploying the project on AWS
 
 1. Clone this project in the remote VM
-```
-git clone https://github.com/verma-kunal/AWS-Session.git
+
+```git clone https://github.com/LikithaMadana/node.js-on-EC2.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
